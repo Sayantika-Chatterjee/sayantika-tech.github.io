@@ -21,7 +21,7 @@ https://<your-github-username>.github.io
 4. **UI/UX Prototype** – Figma
 
 ## 📫 Contact
-- **Email:** your.email@example.com
+- **Email:** www.shayanchatterjjee772@gmail.com
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sayantika-chatterjee-68358b287)
 
 ---
