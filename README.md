@@ -22,7 +22,7 @@ https://<your-github-username>.github.io
 
 ## 📫 Contact
 - **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sayantika-chatterjee-68358b287)
 
 ---
 © 2025 Sayantika Chatterjee
